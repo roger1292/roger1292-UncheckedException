@@ -17,4 +17,5 @@ public class Lab {
         String name = null;
         System.out.println(name.length());
     }
+    
 }
